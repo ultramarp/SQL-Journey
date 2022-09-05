@@ -8,8 +8,8 @@ Here you will find all my study and project material related to my learning proc
 
 ## Table of contents
 - [About](#about)
-- [Sql-Practice](#sql-practice.com)
-- [Hackerrank] (#hackerrank)
+- My SQL exercises on ---> [Sql-Practice](https://github.com/ultramarp/SQL-Journey/blob/main/sql_journey.ipynb)
+- My SQL exercises on ---> [Hackerrank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql)
 
-## [sql-practice.com](https://www.sql-practice.com) 
+
 
