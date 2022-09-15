@@ -9,6 +9,7 @@ Here you will find all my study and project material related to my learning proc
 ## Table of contents
 - [About](#about)
 - My SQL exercises on ---> [Sql-Practice](https://github.com/ultramarp/SQL-Journey/blob/main/sql_journey.ipynb)
+- My SQL exercises on ---> [DataLemur](https://github.com/ultramarp/SQL-Journey/blob/main/sql_journey.ipynb)
 - My SQL exercises on ---> [Hackerrank](https://github.com/ultramarp/SQL-Journey/blob/main/hackerrank.ipynb)
 
 
