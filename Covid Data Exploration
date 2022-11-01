@@ -1,0 +1,10 @@
+import pandas as pd
+
+covid = pd.read_csv('/work/SQL-Journey/CovidDeaths.csv')
+vaccines = pd.read_csv('/work/Vaccines.csv')
+
+
+SELECT *
+FROM covid
+WHERE continent IS NOT null 
+ORDER BY 3,4;
